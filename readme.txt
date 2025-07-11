@@ -1,7 +1,7 @@
 The .m files are associated with figure numbers in "Using a Cell Flux Model to Investigate Patterns of
 Phytoplankton Growth and Macromolecular Allocation Under Iron Limitation"
 
-All codes use optimized values of afe and A_-^Fe_pho, which were determined using the attached python codes (see folder 'Optimization') and saved to the excel file "optimized_params"
+All codes use optimized values of afe and A_-^Fe_pho, which were determined using the attached python codes (opt_subplots.py and dependencies) and saved to the excel file "optimized_params"
 
 specific growth rates, elemental stoichiometry, and functional/macromolecular allocation are calculated using the function CFM_Fe, which requires DSolver and Qc_essential_computation to run
 
